@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Mahmoud hamed",
+    "occupation": "Web Developer ",
+    "description": "I breathe React ",
+    "image": "profilepic.jpg",
+    "bio": "i there! I am Mahmoud ! AKA 7uckinMad. A full Stack developer, I worke at Tatweer Company Located in damascus as Backend developer in laravel Framwork  ",
+    "contactmessage": "Get in touch with ME :",
+    "email": "mahmoudsu22@gmail.com",
+    "phone": "+963968451924",
+    "address": {
+      "street": "Tartous al-thaowra street",
+      "city": "Tartous",
+      "state": "alhamraat",
+      "zip": "none"
+    },
+    "website": "/",
+    "resumedownload": "/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UClrA1W70rGKlMMjOclkk0XQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mahmou.hamed.madrid",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mahmoud-hamed-39018b187",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/im_mahmoud_only",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mrbeastmahmoud",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Tishreen -SYR",
+        "degree": "Bachelor's Degree,  Software engineering",
+        "graduated": "",
+        "description": "2020/2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tatweer ",
+        "title": "backend Developer",
+        "years": "2021",
+        "description": " "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node js",
+        "level": "40%"
+      },
+      {
+        "name": "React js",
+        "level": "88%"
+      },
+      {
+        "name": "Next js",
+        "level": "90%"
+      },
+      {
+        "name": "Lavavel ",
+        "level": "80%"
+      },
+      {
+        "name": "Java & C#",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "88%"
+      },
+      {
+        "name": "Next",
+        "level": "80%"
+      },
+      {
+        "name": "Tailwindcss",
+        "level": "90%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+      {
+        "name": "SQL server",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "83%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazone Clone (React JS)",
+        "category": "",
+        "image": "amazone.png",
+        "url": "https://homev2-0-9ouvzcd7u-mrbeastmahmoud.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mahmoud is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... ",
+        "user": "Homam Ibrahem"
+      },
+      {
+        "text": "Mahmoud has always been an example to follow. I always look at him with a view of appreciation and respect. He is amazing in speed of learning and intelligence.",
+        "user": "Adam Oudaimah"
+      }
+    ]
+  }
+}
