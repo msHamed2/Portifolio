@@ -4,14 +4,14 @@
     "occupation": "Web Developer ",
     "description": "I breathe React ",
     "image": "profilepic.jpg",
-    "bio": "i there! I am Mahmoud ! AKA 7uckinMad. A full Stack developer, I worke at Tatweer Company Located in damascus as Backend developer in laravel Framwork  ",
+    "bio": "Hi there! I am Mahmoud ! AKA 7uckinMad. A full Stack developer, I worke at Tatweer Company Located in damascus as Backend developer in laravel Framwork  ",
     "contactmessage": "Get in touch with ME :",
     "email": "mahmoudsu22@gmail.com",
     "phone": "+963968451924",
     "address": {
-      "street": "Tartous al-thaowra street",
-      "city": "Tartous",
-      "state": "alhamraat",
+      "street": "Damascus",
+      "city": "Mazzeh",
+      "state": "Al-huda",
       "zip": "none"
     },
     "website": "/",
@@ -57,9 +57,9 @@
     "work": [
       {
         "company": "Tatweer ",
-        "title": "backend Developer",
+        "title": "Developer",
         "years": "2021",
-        "description": " "
+        "description": "Backend Developer"
       }
     ],
     "skills": [
@@ -80,7 +80,7 @@
         "level": "80%"
       },
       {
-        "name": "Java & C#",
+        "name": "Java",
         "level": "70%"
       },
       {
@@ -110,6 +110,9 @@
       {
         "name": "MySQL",
         "level": "83%"
+      }, {
+        "name": "C#",
+        "level": "90%"
       }
     ]
   },
@@ -120,6 +123,11 @@
         "category": "",
         "image": "amazone.png",
         "url": "https://homev2-0-9ouvzcd7u-mrbeastmahmoud.vercel.app/"
+      },{
+        "title": "Metavers Chat dApp(Next JS)",
+        "category": "",
+        "image": "Metaverse-Companies.jpg",
+        "url": "https://metaverse-id0u1o1qz-mrbeastmahmoud.vercel.app/"
       }
     ]
   },
