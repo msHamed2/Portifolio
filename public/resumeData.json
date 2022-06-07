@@ -4,7 +4,7 @@
     "occupation": "Web Developer ",
     "description": "I breathe React ",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Mahmoud ! AKA 7uckinMad. A full Stack developer, I worke at Tatweer Company Located in damascus as Backend developer in laravel Framwork  ",
+    "bio": "Hi there! I am Mahmoud ! A full Stack Web Developer in Laravel Framwork,Next js and React Js with more than 3 years of experience in the computer software industry. Skilled in solving problems with React js, Laravel, Javascript, Node.js, SQL,C#, and Java! . ",
     "contactmessage": "Get in touch with ME :",
     "email": "mahmoudsu22@gmail.com",
     "phone": "+963968451924",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UClrA1W70rGKlMMjOclkk0XQ",
+        "url": "https://www.youtube.com",
         "className": "fa fa-youtube"
       },
       {
@@ -58,14 +58,22 @@
       {
         "company": "Tatweer ",
         "title": "Developer",
-        "years": "2021",
+        "years": "2020",
         "description": "Backend Developer"
       }
     ],
     "skills": [
       {
+        "name": "Lavavel ",
+        "level": "90%"
+      },
+      {
         "name": "Node js",
-        "level": "40%"
+        "level": "80%"
+      },
+      {
+        "name": "Rest API ",
+        "level": "95%"
       },
       {
         "name": "React js",
@@ -76,9 +84,10 @@
         "level": "90%"
       },
       {
-        "name": "Lavavel ",
-        "level": "80%"
+        "name": "Agile",
+        "level": "88%"
       },
+    
       {
         "name": "Java",
         "level": "70%"
@@ -109,7 +118,7 @@
       },
       {
         "name": "MySQL",
-        "level": "83%"
+        "level": "90%"
       }, {
         "name": "C#",
         "level": "90%"
@@ -128,6 +137,18 @@
         "category": "",
         "image": "Metaverse-Companies.jpg",
         "url": "https://metaverse-id0u1o1qz-mrbeastmahmoud.vercel.app/"
+      },
+      {
+        "title": "Fake Mall API(Laravel)",
+        "category": "Back-end as service",
+        "image": "fake-mall.png",
+        "url": "http://fakemall.tech/"
+      },
+      {
+        "title": "Food Order App(Dummy front end test)",
+        "category": "Dummy old Test for a Job",
+        "image": "FoodOrderApp.jpg",
+        "url": "https://mrbeastmahmoud.github.io/FoodOrderApp/"
       }
     ]
   },
@@ -139,7 +160,7 @@
       },
       {
         "text": "Mahmoud has always been an example to follow. I always look at him with a view of appreciation and respect. He is amazing in speed of learning and intelligence.",
-        "user": "Adam Oudaimah"
+        "user": "Adam Oudaimah "
       }
     ]
   }
