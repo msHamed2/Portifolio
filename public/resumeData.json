@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Mahmoud hamed",
-    "occupation": "Web Developer ",
-    "description": "I breathe React ",
+    "occupation": "Full stack Web Developer ",
+    "description": "The Guy who loves coffee.tsx",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Mahmoud ! A full Stack Web Developer in Laravel Framwork,Next js and React Js with more than 3 years of experience in the computer software industry. Skilled in solving problems with React js, Laravel, Javascript, Node.js, SQL,C#, and Java! . ",
+    "bio": "Hi there! I am Mahmoud ! A full Stack Web Developer in Laravel Framwork,Next js ,nestjs and React Js with more than 3 years of experience in the computer software industry. Skilled in solving problems with React js, Laravel, Javascript, Node.js,micro-services and my-SQL! . ",
     "contactmessage": "Get in touch with ME :",
     "email": "mahmoudsu22@gmail.com",
-    "phone": "+963968451924",
+    "phone": "+971 569685392",
     "address": {
-      "street": "Damascus",
-      "city": "Mazzeh",
-      "state": "Al-huda",
-      "zip": "none"
+      "street": "UAE",
+      "city": "Dubai",
+      "state": "AlBarsha firsts",
+      "zip": ""
     },
     "website": "/",
     "resumedownload": "/",
@@ -56,9 +56,15 @@
     ],
     "work": [
       {
+        "company": "ITFAQ - Digital Labs",
+        "title": "Full stack development",
+        "years": "2022",
+        "description": "NEXTjs - Laravel Development"
+      },
+      {
         "company": "Tatweer ",
-        "title": "Developer",
-        "years": "2020",
+        "title": "Web Developer",
+        "years": "2020 - 2022",
         "description": "Backend Developer"
       }
     ],
@@ -68,42 +74,44 @@
         "level": "90%"
       },
       {
+        "name": "Next js",
+        "level": "90%"
+      },
+      {
+        "name": "React js",
+        "level": "90%"
+      },
+      {
+        "name": "Nestjs",
+        "level": "80%"
+      },
+      {
         "name": "Node js",
         "level": "80%"
+      },
+      {
+        "name": "SOLID",
+        "level": "100%"
       },
       {
         "name": "Rest API ",
         "level": "95%"
       },
-      {
-        "name": "React js",
-        "level": "88%"
-      },
-      {
-        "name": "Next js",
-        "level": "90%"
-      },
+   
       {
         "name": "Agile",
         "level": "88%"
       },
-    
-      {
-        "name": "Java",
-        "level": "70%"
-      },
+   
       {
         "name": "Git",
         "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "88%"
+        "level": "100%"
       },
-      {
-        "name": "Next",
-        "level": "80%"
-      },
+   
       {
         "name": "Tailwindcss",
         "level": "90%"
@@ -111,10 +119,6 @@
       {
         "name": "Firebase",
         "level": "75%"
-      },
-      {
-        "name": "SQL server",
-        "level": "80%"
       },
       {
         "name": "MySQL",
