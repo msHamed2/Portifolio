@@ -9,7 +9,7 @@ import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
 import "./App.css";
-
+//import "./teminal"
 const App = () => {
   const [resumeData, setResumeData] = useState({});
 
@@ -24,7 +24,7 @@ const App = () => {
   return (
     <div className="App">
       <Header data={resumeData.main} />
-      <About data={resumeData.main} />
+      <About data={resumeData.main} info={resumeData.main} />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
       <Testimonials data={resumeData.testimonials} />

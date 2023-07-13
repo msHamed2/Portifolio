@@ -97,6 +97,11 @@ header .social li {
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
+#about li {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
@@ -211,7 +216,7 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 41.66667%; margin-top: 41px !important; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;

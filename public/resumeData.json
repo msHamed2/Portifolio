@@ -1,10 +1,16 @@
 {
   "main": {
     "name": "Mahmoud hamed",
-    "occupation": "Full stack Web Developer ",
+    "occupation": "Full-stack Application Developer ",
     "description": "The Guy who loves coffee.tsx",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Mahmoud ! A full Stack Web Developer in Laravel Framwork,Next js ,nestjs and React Js with more than 4 years of experience in the computer software industry. Skilled in solving problems with React js, Laravel, Javascript, Node.js,micro-services and my-SQL! . ",
+    "bio": "Hi there! I am Mahmoud ! A full-stack application developer , here is a breef introduction about me ",
+    "info1": "Bachelor in IT SCIENCES department of Software engineering",
+    "info2":  "4 years of experience in Software Engineering",
+    "info3": "Experiences in international projects e.g.: Belgium, Germany, UAE, Liechtenstein ,Swiss and Italy",
+    "info4": "Experiences in Laravel , reactjs ,Nextjs,Nestjs Electronjs",
+    "info5":  "I love writing codes and create user-friendly products that everyone enjoys using them.",
+    "info6":   "I always try to learn new techs and share my knowledge with others. to achieve this, I challenge myself in various projects. I would be happy if I could help you with your projects",
     "contactmessage": "Get in touch with ME :",
     "email": "mahmoudsu22@gmail.com",
     "phone": "+971 569685392",
@@ -39,7 +45,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/mrbeastmahmoud",
+        "url": "https://github.com/Mahmoud-Hamed-itfaq",
         "className": "fa fa-github"
       }
     ]
@@ -50,22 +56,31 @@
       {
         "school": "University of Tishreen -SYR",
         "degree": "Bachelor's Degree,  Software engineering",
-        "graduated": "",
-        "description": "2020/2021"
+        "graduated": "2016-2020",
+        "description": "Graduated from University of Tishreen -SYR department factuly of Computer Science department of software engineering "
       }
     ],
     "work": [
       {
         "company": "ITFAQ - Digital Labs",
-        "title": "Full stack development",
-        "years": "2022",
-        "description": "NEXTjs - Laravel Development"
+        "title": "Software Application Development & Development Teamlead",
+        "years": "2022 - 2023",
+        "description": "Extensive hands-on experience migrating and breaking down legacy monolith applications into microservices making the best use of cloud environments ,Day to day activities included development ,assessing and estimating feature requests and issues as well  as doing code reviews for my team mates on regular basis , Day to day activities included development and team management tasks .",
+        "stack":"Stack : Laravel , Reactjs , Nextjs ,Nestjs"
       },
       {
         "company": "Tatweer ",
-        "title": "Web Developer",
+        "title": "Full stack application developer",
         "years": "2020 - 2022",
-        "description": "Backend Developer"
+        "description": "Designing and implementing a live data synchronization solution between CRM systems , Maintain and build new service & features for System has more then 12 million user in Syria and UAE.",
+        "stack":"Stack : Laravel , Reactjs , Nextjs "
+      },
+      {
+        "company": "M.A.T ",
+        "title": "Laravel developer",
+        "years": "2019 - 2020",
+        "description": "Laravel developer",
+        "stack":"Stack : Laravel  "
       }
     ],
     "skills": [
@@ -80,6 +95,10 @@
       {
         "name": "React js",
         "level": "90%"
+      },
+      {
+        "name": "Electron.js",
+        "level": "100%"
       },
       {
         "name": "Nestjs",
@@ -103,40 +122,38 @@
         "level": "88%"
       },
    
-      {
-        "name": "Git",
-        "level": "70%"
-      },
+     
       {
         "name": "JavaScript",
         "level": "100%"
       },
+      {
+        "name": "Bootstrap",
+        "level": "100%"
+      },
+      
    
       {
         "name": "Tailwindcss",
         "level": "90%"
       },
       {
-        "name": "Firebase",
-        "level": "75%"
+        "name": "TypeScript",
+        "level": "90%"
       },
       {
         "name": "MySQL",
         "level": "90%"
-      }, {
-        "name": "C#",
-        "level": "90%"
+      },  {
+        "name": "Git",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+   
       {
-        "title": "Amazone Clone (React JS)",
-        "category": "",
-        "image": "amazone.png",
-        "url": "https://homev2-0-9ouvzcd7u-mrbeastmahmoud.vercel.app/"
-      },{
         "title": "Metavers Chat dApp(Next JS)",
         "category": "",
         "image": "Metaverse-Companies.jpg",
