@@ -1,8 +1,4 @@
-/**
- * @license MIT
- */
 
-'use strict';
 
 /** Generate a terminal widget.*/
 export class Termynal {
@@ -75,13 +71,13 @@ export class Termynal {
             const type = line.getAttribute(this.pfx);
             const delay = line.getAttribute(`${this.pfx}-delay`) || this.lineDelay;
 
-            if (type == 'input') {
+            if (type === 'input') {
                 line.setAttribute(`${this.pfx}-cursor`, this.cursor);
                 await this.type(line);
                 await this._wait(delay);
             }
 
-            else if (type == 'progress') {
+            else if (type === 'progress') {
                 await this.progress(line);
                 await this._wait(delay);
             }
