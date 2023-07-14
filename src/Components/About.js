@@ -16,7 +16,7 @@ const About = ({ data, info }) => {
   }
 
 useEffect(() => {
-  var termynal = new Termynal('#termynal', {
+   new Termynal('#termynal', {
     typeDelay: 40,
     lineDelay: 700,
     lineData: [
